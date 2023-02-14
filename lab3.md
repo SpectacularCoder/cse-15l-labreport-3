@@ -1,6 +1,6 @@
 # -cse-15l-lab-report-week5
 ## Lab Report 3
-### Researching Commands For Find
+### Researching Commands For Grep
 ### Command 1: 
 **grep -n** this command searches a file and essentially returns the lines where the specificed string is located in the text file.
 
